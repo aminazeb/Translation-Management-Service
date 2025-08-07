@@ -122,6 +122,8 @@ Includes:
 	•	Performance test for JSON export
 
 ⸻
+### Postman Collection
+https://aminazeb98-5861523.postman.co/workspace/Amina-Zeb's-Workspace~de6ecb7a-5a44-46e0-8ef1-6e4c4c9a5cbb/collection/47394721-faf31125-3680-4336-9ddc-db849e42dd99?
 
 ### Swagger Documentation
 TBA
